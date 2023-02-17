@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TakeAndTimeStampWebPageScreenshot", "TakeAndTimeStampWebPageScreenshot\TakeAndTimeStampWebPageScreenshot.csproj", "{716BE489-9D1C-4A61-961E-55552B5A32CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{716BE489-9D1C-4A61-961E-55552B5A32CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716BE489-9D1C-4A61-961E-55552B5A32CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716BE489-9D1C-4A61-961E-55552B5A32CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716BE489-9D1C-4A61-961E-55552B5A32CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5318EB0D-D856-4F88-B21E-6DC22B376AE2}
+	EndGlobalSection
+EndGlobal
